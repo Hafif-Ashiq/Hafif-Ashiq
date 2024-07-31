@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafif-ashiq&show_icons=true&locale=en" alt="hafif-ashiq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafif-ashiq&" alt="hafif-ashiq" /></p>
+<p style="text-align:center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafif-ashiq&" alt="hafif-ashiq" /></p>
